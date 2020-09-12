@@ -4,7 +4,6 @@ import java.util.Iterator;
 import static java.lang.System.exit;
 
 public class ArrayStack {
-
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);

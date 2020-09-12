@@ -23,7 +23,6 @@ import java.util.Random;
  *  @author Kevin Wayne
  */
 public final class StdRandom {
-
     private static Random random;    // pseudo-random number generator
     private static long seed;        // pseudo-random number generator seed
 
@@ -46,7 +45,7 @@ public final class StdRandom {
      * @param s the seed
      */
     public static void setSeed(long s) {
-        
+
         seed   = s;
         random = new Random(seed);
     }
