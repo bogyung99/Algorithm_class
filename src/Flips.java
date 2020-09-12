@@ -7,6 +7,7 @@ public class Flips {
         Counter tails = new Counter("tails");
 
         for(int t = 0; t < T; t++)
+
             if(StdRandom.bernoulli(0.5))
                 heads.increment();
             else
