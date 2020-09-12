@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Pract1 {
+
     static int[] arr = new int[6];
     static int mem[] = new int[100];
 

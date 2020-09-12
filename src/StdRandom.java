@@ -46,6 +46,7 @@ public final class StdRandom {
      * @param s the seed
      */
     public static void setSeed(long s) {
+        
         seed   = s;
         random = new Random(seed);
     }
