@@ -1,3 +1,7 @@
+package Practice2;
+
+import Practice2.Counter;
+
 public class Rolls {
     public static void main(String[] args){
         int T = Integer.parseInt(args[0]);

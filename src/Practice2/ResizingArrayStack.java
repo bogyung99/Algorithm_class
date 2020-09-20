@@ -1,3 +1,5 @@
+package Practice2;
+
 import java.util.Iterator;
 
 public class ResizingArrayStack<Item> implements Iterable<Item> {

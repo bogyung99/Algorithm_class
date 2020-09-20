@@ -1,3 +1,5 @@
+package Practice2;
+
 public class Counter {
 	private String name;
 
